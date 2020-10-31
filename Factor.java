@@ -7,7 +7,7 @@ public static void main(String[] args) {
     int n;
     n = sc.nextInt();
     sc.close();
-    System.out.printf("Factors of %d  are :-",n);
+    System.out.print("Factors are :-");
     for(int i=1; i<=n; i++)
     {
         if(n%i==0)
@@ -17,3 +17,5 @@ public static void main(String[] args) {
     
 }
 }
+// i/p 10
+//o/p Factors are 1 2 5
