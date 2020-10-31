@@ -19,3 +19,5 @@ public class Oddeven {
             System.out.println(num+" is zero");
     }
 }
+// i/p  7
+//o/p   7 is Odd
