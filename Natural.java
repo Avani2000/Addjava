@@ -12,6 +12,8 @@ public static void main(String[] args) {
         sum+=i;
     }
 
-    System.out.printf("Sum of first %d natural no.s = %d",n,sum);
+    System.out.print("Sum of first "+n" natural no.s "+sum);
 }
 }
+//i/p 6
+//o/p Sum of first 6 natural no.s 21
