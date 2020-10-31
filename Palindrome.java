@@ -22,3 +22,5 @@ public class Palindrome {
 
     }
 }
+//i/p 131
+// o/p 131 is Palindrome
