@@ -24,3 +24,5 @@ public static void main(String[] args) {
 
 }
 }
+//input  2
+//output    2 is a Prime Number
