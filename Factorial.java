@@ -15,3 +15,5 @@ public class Factorial {
 
     }
 }
+// i/p  5
+//o/p Factorial of 5 is 120
