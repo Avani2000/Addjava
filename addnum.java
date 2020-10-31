@@ -8,3 +8,5 @@ public class MyClass {
 	}
 
 }
+// output
+//Sum=55
