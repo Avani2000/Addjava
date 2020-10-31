@@ -22,3 +22,5 @@ public class Armstrong {
 
     }
 }
+// i/p  153
+//o/p  153 is Armstrong Number
