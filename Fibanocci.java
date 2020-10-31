@@ -7,7 +7,7 @@ public class Fibanocci {
         int n,sum=0,first=0,second=1;
         n = sc.nextInt();
         sc.close();
-        System.out.printf("First %d terms of Fibanocci Series :- \n",n);
+        System.out.print("First " + n + " terms: ");
         for(int i=1; i<=n; i++)
         {
             System.out.print(first+" ");
@@ -19,3 +19,5 @@ public class Fibanocci {
         
     }
 }
+//i/p 5
+//0/p First 5 terms 0+1+1+2+3
